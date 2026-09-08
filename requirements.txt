@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-torch
-torchvision
+onnxruntime
+numpy
 pillow
 httpx
 python-multipart
